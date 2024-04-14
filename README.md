@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @haxx5
+- 👀 I’m interested in making minecraft server
+- 🌱 I’m currently learning server devloping[minecraft]
